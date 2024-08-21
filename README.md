@@ -1,9 +1,15 @@
-#   Hi 👋, I'm Prajes Das
-                Aspiring Data Scientist skilled in Python, Power BI, and Tableau. 
-                Led AI projects and passionate about tech innovation
-                🌱 I’m currently learning Deep Learning
-                👨‍💻 All of my projects are available at https://github.com/prajesdas
-                📫 How to reach me prajesdas390@gmail.com
+<h1 align="center">Hi 👋, I'm Prajes Das</h1>
+<h3 align="center">Aspiring Data Scientist skilled in Python, Power BI, and Tableaue. Led AI projects and passionate about tech innovation</h3>
+
+- 🌱 I’m currently learning **Deep Learning**
+
+- 👨‍💻 All of my projects are available at [https://github.com/prajesdas](https://github.com/prajesdas)
+
+- 📫 How to reach me **prajesdas390@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 
 ## 🌐 Socials:
