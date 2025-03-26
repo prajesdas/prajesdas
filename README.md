@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
-</p
+  <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="50%" />
+</p>
 
 ---
 
