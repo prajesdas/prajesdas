@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF5733&center=true&width=500&lines=Passionate+about+AI+and+ML!;Skilled+in+Python%2C+Power+BI%2C+and+Tableau!;Building+AI+solutions+for+real-world+problems!" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="50%" />
+</p>
+
 ---
 
 ## 🚀 **About Me**
@@ -22,9 +26,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/prajes-das-160sh2000/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100054587556474" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/i.prajes_das/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -79,16 +80,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=prajesdas&theme=radical&no-frame=false&no-bg=false&margin-w=5" />
 </p>
 
-### 📈 **Top Contributions**
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=prajesdas&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
-
 ---
 
 ## 🚀 **Let's Collaborate!**
 📌 Open to **AI/ML projects**, **data science collaborations**, and **technical discussions!**  
-
 📩 **Email:** prajesdas390@gmail.com  
 🌍 **Portfolio:** [GitHub](https://github.com/prajesdas)  
 
