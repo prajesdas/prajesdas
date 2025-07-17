@@ -46,6 +46,7 @@
 ![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-blueviolet?style=for-the-badge&logo=code&logoColor=white)
 ![Operating System](https://img.shields.io/badge/Operating%20System-OS-grey?style=for-the-badge&logo=linux&logoColor=white)
 ![Computer Network](https://img.shields.io/badge/Computer%20Network-Networking-darkgreen?style=for-the-badge&logo=cloudflare&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-Database%20Management%20System-blue?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
@@ -64,6 +65,16 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+
+---
+
+### **Frameworks & Tools:**
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
