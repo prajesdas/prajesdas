@@ -16,7 +16,7 @@
 🔹 **Aspiring Data Scientist** with a strong foundation in **Python, Machine Learning, and AI**  
 🔹 **Data Visualization Expert** skilled in **Power BI & Tableau**  
 🔹 **Constant Learner** currently diving deeper into **Deep Learning & Computer Vision**  
-🔹 **Passionate Innovator** building AI-driven solutions to real-world challenges  
+🔹 **Passionate Innovator** Building AI-driven solutions to real-world challenges  
 
 📌 **Portfolio & Projects:** [GitHub](https://github.com/prajesdas)  
 📩 **Reach Out:** **prajesdas390@gmail.com**  
