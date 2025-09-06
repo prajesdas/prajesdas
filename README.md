@@ -1,124 +1,182 @@
-<!--Banner--> 
-![Prajes Das Banner Image](./banner.png)  
+<!--Banner-->
+![PrajesDas Banner Image](./banner.png)
 
-<!--Night Owl image--> 
-<div>   
-  <img align="right" width="40%" src="https://raw.githubusercontent.com/prajesdas/prajesdas/main/assets/owl.png"> 
-</div>  
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-<!--Header Name--> 
-<h1 align="center">👋 Hello, I'm <span style="color:#FF5733">Prajes Das</span></h1>
-<h3 align="center">Aspiring Data Scientist | AI & ML Enthusiast | Tech Innovator</h3>
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴘʀᴀᴊᴇs ᴅᴀs! 
+*Aspiring Data Scientist | AI & ML Enthusiast | Tech Innovator*
+<br /> 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF5733&center=true&width=500&lines=Passionate+about+AI+and+ML!;Skilled+in+Python%2C+Power+BI%2C+and+Tableau!;Building+AI+solutions+for+real-world+problems!" />
-</p>
+<!--Start Intro-->               
+<p align="left">I am a passionate student and developer with a strong interest in Artificial Intelligence, Machine Learning, Data Science, and Full Stack Development. </p>
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/aa3b7c25d2be856f50dbbece232936b85ea8b13cebc32ee2aa1a0d88f43ffd2f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966" width="50%" />
+- ✨ Student of life :)
+- 🌱 I’m currently learning cutting-edge technologies in AI/ML and Data Science.
+- 💻 Exploring data-driven solutions and innovative projects.
+- ✍ Sharing knowledge through projects, discussions, and community.
+- ❤ Contributing to Open Source.
+- 🏙 Building a strong foundation in both academics and real-world problem solving.
+<!--End Intro-->
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=PrajesDas&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="PrajesDas" style="padding-right:20px;" />
 </p>
 
 ---
 
-## 🚀 **About Me**
-🔹 **Aspiring Data Scientist** with a strong foundation in **Python, Machine Learning, and AI**  
-🔹 **Data Visualization Expert** skilled in **Power BI & Tableau**  
-🔹 **Constant Learner** currently diving deeper into **Deep Learning & Computer Vision**  
-🔹 **Passionate Innovator** Building AI-driven solutions to real-world challenges  
 
-📌 **Portfolio & Projects:** [GitHub](https://github.com/prajesdas)  
-📩 **Reach Out:** **prajesdas390@gmail.com**  
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
 
----
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in Data Science, AI and Machine Learning.</li>
+  <li>Exploring advanced concepts in Full Stack Development.</li>
+  <li>Working on data visualization and model optimization.</li>
+</ul>
+  
+<h3 align="left">Latest Blog Posts</h3>
+<ul align="left">
+  <li><a href="#">🚀 Coming Soon: My journey in AI/ML</a></li>
+  <li><a href="#">📊 Data Science Projects and Learnings</a></li>
+  <li><a href="#">💻 Insights on Full Stack Development</a></li>
+</ul>
+<br />
+<br />
+<br />
+<br />
 
-## 🌐 **Connect with Me**
+
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/prajes-das-160sh2000/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/PrajesDas">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=PrajesDas&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=PrajesDas&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=PrajesDas&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
   </a>
-  <a href="https://www.instagram.com/i.prajes_das/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+</p>
+<p align="center">
+  <a href="https://github.com/daytonaio/daytona">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/PrajesDas/achievements?format=svg&limit=6"
+      width="400"
+    />
   </a>
-  <a href="https://www.hackerearth.com/@prajesdas390" target="_blank">
-    <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=hackerearth&logoColor=white" />
-  </a>
 </p>
+<br />
+
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/PrajesDas">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrajesDas&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/PrajesDas">
+          <img align="center" src="https://streak-stats.demolab.com?user=PrajesDas&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/PrajesDas">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=PrajesDas&repo=Data-Science-Projects&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/PrajesDas">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=PrajesDas&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajesDas&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
 
 ---
 
-### **Programming Languages & Core Subjects:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Principles-orange?style=for-the-badge&logo=abstract&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-blueviolet?style=for-the-badge&logo=code&logoColor=white)
-![Operating System](https://img.shields.io/badge/Operating%20System-OS-grey?style=for-the-badge&logo=linux&logoColor=white)
-![Computer Network](https://img.shields.io/badge/Computer%20Network-Networking-darkgreen?style=for-the-badge&logo=cloudflare&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-Database%20Management%20System-blue?style=for-the-badge&logo=sqlite&logoColor=white)
+<!--Dynamic Quote card updates everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
----
-
-### **Machine Learning & AI:**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=darkreader&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
----
-
-### **Data Analysis & Visualization:**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
-
----
-
-### **Frameworks & Tools:**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 📊 **GitHub Statistics**
+<!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajesdas&theme=radical&show_icons=true&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajesdas&theme=radical&hide_border=true" width="48%" />
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elbert%20Hubbard&quote=Your%20neighbor%20is%20the%20man%20who%20needs%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
+<!--ENDS_HERE_QUOTE_CARD-->
 
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:prajesdas@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="prajesdas@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://x.com/" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="twitter" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="instagram" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/PrajesDas" target="_blank">
+<img src="./github.png" width=50 height=50 alt="PrajesDas" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://dev.to/" target="_blank">
+<img src="./dev_to.png" width=50 height=50 alt="dev" style="margin-bottom: 5px;" />
+</a>
+</div>
+<br/>
+
+<!--Buy me a coffee-->
+<div align="center">
+<a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+</div>
+
+
+<!--Footer--> 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajesdas&layout=compact&theme=radical&hide_border=true" width="50%" />
-</p>
-
----
-
-## 🎯 **Fun & Insights**
-### 🔥 **Inspirational Quote**
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-### 🏆 **GitHub Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prajesdas&theme=radical&no-frame=false&no-bg=false&margin-w=5" />
-</p>
-
----
-
-## 🚀 **Let's Collaborate!**
-📌 Open to **AI/ML projects**, **data science collaborations**, and **technical discussions!**  
-📩 **Email:** prajesdas390@gmail.com  
-🌍 **Portfolio:** [GitHub](https://github.com/prajesdas)  
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=prajesdas&label=Profile%20Views&color=6&icon=5&pretty=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
