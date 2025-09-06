@@ -1,5 +1,8 @@
-<!--Banner-->
-![Banner Image](./banner%20.png)
+<!--Banner Section-->
+<p align="center">
+  <img src="banner.png" alt="Banner"/>
+</p>
+
 
 
 <!--Night Owl image-->
