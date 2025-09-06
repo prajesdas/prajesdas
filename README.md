@@ -1,5 +1,5 @@
 <!--Banner-->
-![Banner Image](./banner%20(3).png)
+![Banner Image](./banner%20.png)
 
 
 <!--Night Owl image-->
