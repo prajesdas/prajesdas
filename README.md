@@ -25,7 +25,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/PrajesDas/PrajesDas/main/.github/views.json" alt="PrajesDas" style="padding-right:20px;" />
+<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/PrajesDas/PrajesDas/main/.github/views.json" alt="Profile Views" style="padding-right:20px;" />
 </p>
 
 
