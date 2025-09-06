@@ -1,5 +1,6 @@
 <!--Banner-->
-![PrajesDas Banner Image](banner (3).png)
+![Banner Image](./banner%20(3).png)
+
 
 <!--Night Owl image-->
 <div>
