@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/aa3b7c25d2be856f50dbbece232936b85ea8b13cebc32ee2aa1a0d88f43ffd2f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966" width="50%" />
-  <img src="https://user-images.githubusercontent.com/95198427/30565402-owl.png" width="120px" style="vertical-align:bottom; margin-left: 20px;" />
+  <img src="https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/assets/owl.png" width="120px" style="vertical-align:bottom; margin-left: 20px;" />
 </p>
 
 
