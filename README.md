@@ -15,6 +15,10 @@
 *Aspiring Data Scientist | AI & ML Enthusiast | Tech Innovator*
 <br /> 
 
+<a href="https://www.credly.com/badges/fe7403da-a563-4672-a641-428ec8f465c9/public_url">
+  <img width="150" src="318e5dd3-a56d-4028-8d70-2db87f81149a.png" align="right">
+</a>
+
 <!--Start Intro-->               
 <p align="left">I am a passionate student and developer with a strong interest in Artificial Intelligence, Machine Learning, Data Science, and Full Stack Development. </p>
 
