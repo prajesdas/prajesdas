@@ -53,7 +53,7 @@
 <a href="#">
   <img src="OCI25DSOCP-removebg-preview.png" width="120" alt="Oracle Cloud Infrastructure 2025 Data Science Professional"/>
 </a>  
-**Oracle Cloud Infrastructure 2025 Data Science Professional**
+
 
 ---
 
