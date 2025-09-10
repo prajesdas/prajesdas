@@ -13,7 +13,7 @@
 
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴘʀᴀᴊᴇs ᴅᴀs! <a href="https://www.credly.com/badges/fe7403da-a563-4672-a641-428ec8f465c9/public_url"><img src="sap-certified-associate-back-end-developer-abap-clo.1.png" width="80"/></a>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴘʀᴀᴊᴇs ᴅᴀs! 
 
 *Aspiring Data Scientist | AI & ML Enthusiast | Tech Innovator*  
 <br />
