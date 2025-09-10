@@ -21,6 +21,7 @@
 
 
 
+
 <!--Start Intro-->               
 <p align="left">I am a passionate student and developer with a strong interest in Artificial Intelligence, Machine Learning, Data Science, and Full Stack Development. </p>
 
@@ -43,6 +44,18 @@
 
 ---
 
+## 📜 Certifications  
+
+<a href="https://www.credly.com/badges/fe7403da-a563-4672-a641-428ec8f465c9/public_url">
+  <img src="sap-certified-associate-back-end-developer-abap-clo.1.png" width="120" alt="SAP Certified Associate - Back-End Developer ABAP Cloud"/>
+</a>
+
+<a href="#">
+  <img src="OCI25DSOCP-removebg-preview.png" width="120" alt="Oracle Cloud Infrastructure 2025 Data Science Professional"/>
+</a>  
+**Oracle Cloud Infrastructure 2025 Data Science Professional**
+
+---
 
 <!--Languages and Tools Section-->           
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
