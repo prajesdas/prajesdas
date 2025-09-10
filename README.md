@@ -11,7 +11,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴘʀᴀᴊᴇs ᴅᴀs!     <a href="https://www.credly.com/badges/fe7403da-a563-4672-a641-428ec8f465c9/public_url">
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴘʀᴀᴊᴇs ᴅᴀs!     <a href= " https://www.credly.com/badges/fe7403da-a563-4672-a641-428ec8f465c9/public_url ">
   <img width="150" src="318e5dd3-a56d-4028-8d70-2db87f81149a.png" align="right">
 </a>
 *Aspiring Data Scientist | AI & ML Enthusiast | Tech Innovator*
