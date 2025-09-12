@@ -40,6 +40,10 @@
 
 
 
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=prajesdas&label=PROFILE+VIEWS&color=0e75b6&style=flat&base=100000" alt="Profile Views"/>
+</p>
 
 
 ---
