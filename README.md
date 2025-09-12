@@ -37,6 +37,7 @@
 <!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prajesdas&label=PROFILE+VIEWS&color=0e75b6&style=flat&base=100000" alt="Profile Views"/>
+  <img src="https://camo.githubusercontent.com/3f119f4b0fe7619b893b9ab2fca0abc087dd1e2d525af98e57d27e70815e3c9d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d627269676874677265656e" alt="Profile Views Camo"/>
 </p>
 
 
