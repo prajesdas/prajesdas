@@ -33,12 +33,6 @@
 - 🏙 Building a strong foundation in both academics and real-world problem solving.
 <!--End Intro-->
 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://camo.githubusercontent.com/f83d6ece5182c10f731d4a6512d614547f0dacc148097339cd3787242148dbc1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50524f46494c452b5649455753266d6573736167653d3132333435363738393026636f6c6f723d303037656336" alt="Profile View"/>
-</p>
-
-
 
 <!--Profile Count Badge-->
 <p align="left">
