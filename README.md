@@ -34,6 +34,53 @@
 <!--End Intro-->
 
 
+---
+
+## 📚 Author & Publications
+
+### 👨‍💼 Author Profile
+<p align="center">
+  <a href="https://www.taneeshapublishing.com/author/prajes-das/">
+    <img src="https://img.shields.io/badge/Author-Prajes%20Das-blue?style=for-the-badge" />
+  </a>
+</p>
+
+### 📖 Published Book
+<p align="center">
+  <a href="YOUR_BOOK_BUY_LINK">
+    <img src="https://img.shields.io/badge/Buy%20My%20Book-Available%20Now-success?style=for-the-badge" />
+  </a>
+</p>
+
+> Proudly published author, contributing to research, innovation, and knowledge sharing through books, patents, and intellectual property.
+
+---
+
+## 🏆 Intellectual Property Portfolio
+
+### 🚀 Patents (6)
+
+- 📌 Smart Medication Dispenser System using AI & IoT
+- 📌 IoT-Based Smart Hostel Management System
+- 📌 AI-Driven Healthcare Monitoring Framework
+- 📌 Smart Attendance & Student Tracking System
+- 📌 Intelligent Energy Optimization System
+- 📌 Automated Safety & Surveillance Platform
+
+### © Copyrights (3)
+
+- 📖 AI & Data Science Learning Framework
+- 📖 Smart Campus Management Software
+- 📖 Digital Innovation and Research Documentation System
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Patents-6-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Copyrights-3-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Published%20Author-Yes-success?style=for-the-badge" />
+</p>
+
+---
+
 <!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prajesdas&label=PROFILE+VIEWS&color=0e75b6&style=flat&base=100000" alt="Profile Views"/>
