@@ -47,7 +47,7 @@
 
 ### 📖 Published Book
 <p align="center">
-  <a href="[YOUR_BOOK_BUY_LINK](https://amzn.in/d/0c8t1T51)">
+  <a href="https://amzn.in/d/0c8t1T51">
     <img src="https://img.shields.io/badge/Buy%20My%20Book-Available%20Now-success?style=for-the-badge" />
   </a>
 </p>
